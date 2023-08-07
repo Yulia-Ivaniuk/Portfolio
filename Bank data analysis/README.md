@@ -1,5 +1,7 @@
 # Bank data analysis - Research on the reliability of borrowers
 
+<code>[Link ipynb](https://github.com/Yulia-Ivaniuk/Projects/blob/main/Bank%20data%20analysis/Bank%20data%20analysis.ipynb)</code>
+
 **Description:**  Analysis of the bank data on the solvency of clients to identify whether the client's marital status, number of children, income level and purpose of the loan affect the return of  the loan on time, and to compile a reliable customer portrait. The results of the study will be taken into account when building a credit scoring model.
 
 **Skills/Tools:**  Data preprocessing (duplicates, missing data, anomalies, data categorization), Pandas

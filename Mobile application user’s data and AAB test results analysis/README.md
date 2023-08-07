@@ -2,6 +2,8 @@
 
 <code>[Link ipynb](https://github.com/Yulia-Ivaniuk/Projects/blob/main/Mobile%20application%20user%E2%80%99s%20data%20and%20AAB%20test%20results%20analysis/AB%20test%20for%20mobile%20application.ipynb)</code>
 
+<code>[Link html](https://htmlpreview.github.io/?https://github.com/Yulia-Ivaniuk/Projects/blob/main/Mobile%20application%20user%E2%80%99s%20data%20and%20AAB%20test%20results%20analysis/AB%20test%20for%20mobile%20application.html)</code>
+
 **Description:**  Analysis of a mobile application user’s behavior to build a sales funnel. Evaluation of the A/A/B test results to understand whether changing the font in the application affects user behavior and how.
 
 The following steps were taken:

@@ -1,5 +1,7 @@
 # Real estate market analysis
 
+<code>[Link ipynb](https://github.com/Yulia-Ivaniuk/Projects/blob/main/Real%20estate%20market%20analysis/Real%20Estate%20market%20analysis.ipynb)</code>
+
 **Description:**  Analysis of Real Estate market data (Saint-Petersburg and nearby towns) to identify  patterns, which exist in the market, and to find out which factors affect the most the property price
 
 **Skills/Tools:**  data preprocessing (duplicates, missing data, anomalies, data categorization), data visualization (histogram, boxplot, scatterplot, bar plot, line plot), Pandas, Matplotlib

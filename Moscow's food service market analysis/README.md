@@ -1,5 +1,7 @@
 # Moscow's food service market analysis
 
+<code>[Link html](https://htmlpreview.github.io/?https://github.com/Yulia-Ivaniuk/Projects/blob/main/Moscow's%20food%20service%20market%20analysis/Moscow's%20food%20service%20market%20analysis.html)</code>
+
 <code>[Link ipynb](https://github.com/Yulia-Ivaniuk/Projects/blob/main/Moscow's%20food%20service%20market%20analysis/Moscow's%20food%20service%20market%20analysis.ipynb)</code>
 
 **Description:**  Analysis of the Moscow’s food service market data and a detailed study of the coffee shop market in order to find the best location and develop the recommendations for opening a new coffee shop.

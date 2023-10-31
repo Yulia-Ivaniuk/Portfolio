@@ -1,4 +1,4 @@
-# Medical Dashboard
+# Medical data Dashboard
 
 <code>[Dashboard Link](https://datalens.yandex/p250jae9stuge)</code>
 

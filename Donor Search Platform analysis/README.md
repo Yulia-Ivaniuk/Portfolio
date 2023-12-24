@@ -1,5 +1,7 @@
 # DonorSearch.org Platform analysis
 
+<code>[Link ipynb](https://github.com/Yulia-Ivaniuk/Portfolio/blob/main/Donor%20Search%20Platform%20analysis/DonorSearch.ipynb)</code>
+
 **Description:** DonorSearch.org, a non-profit organization focused on inspiring individuals to become donors, aims to boost donor numbers and enhance the activity levels of existing donors. The project involves analyzing data encompassing donations, their planning, and user platform interactions. Key objectives include developing and computing business metrics to measure organizational performance and analyzing user behavior. Ultimately, the project seeks to formulate strategies that will effectively engage new donors while encouraging greater participation from existing contributors, aligning with DonorSearch.org's overarching goal of fostering a more active and supportive donor community.
 
 **Skills/Tools:** Pandas, Matplotlib, Seaborn, NumPy, business metrics calculation, cohort analysis, correlation matrix

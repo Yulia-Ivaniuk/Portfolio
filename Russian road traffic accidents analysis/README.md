@@ -1,5 +1,7 @@
 # Russian road traffic accidents analysis
 
+<code>[Link ipynb](https://github.com/Yulia-Ivaniuk/Portfolio/blob/main/Russian%20road%20traffic%20accidents%20analysis/Road_accidents_Russia.ipynb)</code>
+
 **Description:** This project involves a research analysis of road traffic accident (RTA) data provided by the "Karta DTP" platform (https://dtp-stat.ru/). "Karta DTP" is a non-profit initiative dedicated to addressing the issue of road accidents in Russia. It serves as a data collection platform for RTAs and offers a free, open-access accident analytics service. The project's goal is to assess road safety in Russia and develop recommendations for reducing the number of RTAs. The analysis utilizes geojson-formatted data available from https://dtp-stat.ru/opendata.
 
 **Skills/Tools:** data parsing (Beautiful Soup), JSON data normalization, dealing with large datasets, data analysis, hypothesis testing, geopands, json, requests 

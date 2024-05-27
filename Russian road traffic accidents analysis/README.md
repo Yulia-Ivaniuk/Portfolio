@@ -4,7 +4,7 @@
 
 **Description:** This project involves a research analysis of road traffic accident (RTA) data provided by the "Karta DTP" platform (https://dtp-stat.ru/). "Karta DTP" is a non-profit initiative dedicated to addressing the issue of road accidents in Russia. It serves as a data collection platform for RTAs and offers a free, open-access accident analytics service. The project's goal is to assess road safety in Russia and develop recommendations for reducing the number of RTAs. The analysis utilizes geojson-formatted data available from https://dtp-stat.ru/opendata.
 
-**Skills/Tools:** data parsing (Beautiful Soup), JSON data normalization, dealing with large datasets, data analysis, hypothesis testing, geopands, json, requests 
+**Skills/Tools:** data parsing (Beautiful Soup), JSON data normalization, dealing with large datasets, hypothesis testing, GeoPands, Requests, Matplotlib, SciPy
 
 **Conclusion:** The analysis of road traffic accident (RTA) data from "Karta DTP" has revealed key findings and recommendations:
 1. *Trends in RTA Numbers:* RTAs have decreased since 2015, with a significant drop in 2020 due to the pandemic. However, 2023 saw a 3.75% increase in RTAs, possibly due to rising vehicle maintenance costs from sanctions.
